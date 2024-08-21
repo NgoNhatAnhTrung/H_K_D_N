@@ -1,4 +1,4 @@
-# PandaFood - Laravel Framework
+# HKDN - Laravel Framework
 
 
 ## Hướng dẫn cài đặt.
